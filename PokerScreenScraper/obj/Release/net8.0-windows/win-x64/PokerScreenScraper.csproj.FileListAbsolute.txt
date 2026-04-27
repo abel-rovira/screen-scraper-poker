@@ -1,0 +1,14 @@
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\net8.0-windows\win-x64\PokerScreenScraper.exe
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\net8.0-windows\win-x64\PokerScreenScraper.deps.json
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\net8.0-windows\win-x64\PokerScreenScraper.runtimeconfig.json
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\net8.0-windows\win-x64\PokerScreenScraper.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\net8.0-windows\win-x64\PokerScreenScraper.pdb
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.AssemblyInfoInputs.cache
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.AssemblyInfo.cs
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\refint\PokerScreenScraper.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.pdb
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\PokerScreenScraper.genruntimeconfig.cache
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\obj\Release\net8.0-windows\win-x64\ref\PokerScreenScraper.dll
