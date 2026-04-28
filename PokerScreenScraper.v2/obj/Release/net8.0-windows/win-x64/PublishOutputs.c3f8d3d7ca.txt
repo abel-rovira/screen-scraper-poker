@@ -1,0 +1,5 @@
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\publish-auto30\PokerScreenScraper.exe
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\publish-auto30\PokerScreenScraper.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\publish-auto30\PokerScreenScraper.deps.json
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\publish-auto30\PokerScreenScraper.runtimeconfig.json
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\publish-auto30\PokerScreenScraper.pdb

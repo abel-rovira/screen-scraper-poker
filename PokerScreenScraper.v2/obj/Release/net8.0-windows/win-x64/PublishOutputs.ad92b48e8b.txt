@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\PokerScreenScraper.pdb
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\D3DCompiler_47_cor3.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\PenImc_cor3.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\PresentationNative_cor3.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\vcruntime140_cor3.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\wpfgfx_cor3.dll
+C:\Users\Tecnico\Documents\Codex\2026-04-27\haz-un-screen-carper-para-extrar\PokerScreenScraper\bin\Release\single-exe\PokerScreenScraper.exe
